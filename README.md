@@ -26,7 +26,7 @@ Workflow: Git, GitHub, GitHub Pages, Agile & team collaboration
 ##  Where to find me
 - Portfolio Frontend: [github.com/PatriciaGea](https://github.com/PatriciaGea)
 - Instagram  Tattoos / Ilustrations: [@patriciagea](https://instagram.com/patriciagea)  
-- Portifolio Tattoos / Ilustrations: [https://patriciageatattoo](https://patriciageatattoo.wixsite.com/patriciagea)
+- Portifolio Tattoos / Ilustrations: [https://patriciageatattoo.com](https://patriciageatattoo.wixsite.com/patriciagea)
 ---
 ✨ Thank you for visiting my profile!
 
