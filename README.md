@@ -1,25 +1,34 @@
 
 # Hey! 👋 I’m Patricia Gea  
 
-🎨 Tattoo Artist | ✏️ Graphic Designer | 💻 Front End Student at Hyper Island, Stockholm  
+Front End Developer | Graphic Designer | Tattoo Artist |
+student at Hyper Island - Stockholm
 
-Currently learning and exploring:  
-- Web development (HTML, CSS, and JavaScript)  
-- Interactive design and user experience  
+I’m a frontend developer studying at Hyper Island, building interactive web apps and exploring full-stack development. I focus on clean, responsive, and accessible code, learning modern tools and workflows.
 
-## 🚀 What you’ll find here
+Skills & Focus Areas:
+
+Web: HTML5, CSS3, JavaScript (ES6+), React
+
+Front-End: Interactive UI, SSR vs CSR, performance, accessibility
+
+Back-End: Node.js, Express, APIs, MongoDB
+
+Workflow: Git, GitHub, GitHub Pages, Agile & team collaboration
+
+##  What you’ll find here
 - Study projects and creative experiments  
 - Front-end and responsive design exercises  
 - Illustration and design portfolio  
 
-## 🌱 Goals
-- Improve my skills in web development and digital design  
-- Combine my artistic experience as a tattoo artist with digital projects  
+##  Goals
+- Improve full-stack skills and building real-world projects.
+- Combine my artistic experience as a ilustrator and tattoo artist with digital projects  
 - Collaborate on creative and innovative projects  
 
-## 📫 Where to find me
+##  Where to find me
 - Instagram: [@patriciagea](https://instagram.com/patriciagea)  
-- Portfolio (coming soon)  
+- Portfolio [github.com/PatriciaGea](https://github.com/PatriciaGea)  
 
 ---
 ✨ Thank you for visiting my profile!
