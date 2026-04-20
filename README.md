@@ -1,13 +1,19 @@
 # Patricia Gea
 
 ![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-open_to_internships-blue?style=flat-square)
-![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-black?style=flat-square)
+![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-00b4b4?style=flat-square)
 
-17 years building businesses — 3 tattoo studios, teams of 20, operations across Brazil and Sweden. Now applying that experience to code. I build for real users because I've been one, managed them, and designed experiences for them long before I wrote my first component.
+Frontend developer with a background in business ownership.
+Before writing code, I spent 17 years running 3 tattoo studios
+scaling across Brazil and Sweden, hiring teams, managing operations,
+and making real worls product decisions.
 
+Now studying at Hyper Island in Stockholm, I bring that
+experience into how I think about UX, architecture, and
+what actually matters to end users.
 ---
 
-## Background in numbers
+## Background
 
 | 17 yrs | 3 studios | 20 people |
 |--------|-----------|-----------|
@@ -23,22 +29,14 @@
 
 ## Selected projects
 
-**[Booking & Portfolio App](link)** — Full-stack app with React, Next.js and TypeScript  
-**[User Registration App](link)** — CRUD with React + Node.js + MongoDB · Deployed  
-**[SSR vs CSR Explorer](link)** — Live rendering strategy comparison · Deployed  
-**[Responsive HTML/CSS Layout](link)** — Flexbox layout with custom SVGs
-
----
-
-## What I bring beyond the code
-
-A product mindset shaped by real ownership — I've made UX decisions that affected revenue, managed people through operational chaos, and shipped things that had to work because livelihoods depended on them. That context changes how I approach every pull request.
+**[Booking & Portfolio App]([link](https://github.com/PatriciaGea/React-nextjs-typescript-booking-shop-portifolio.git))** — Full-stack app with React, Next.js and TypeScript  
+**[User Registration App]([link](https://patriciagea.github.io/React_Javascript_Api/))** — CRUD with React + Node.js + MongoDB · Deployed  
+**[SSR vs CSR Explorer]([link](https://patriciagea.github.io/ssr-csr-rendering/))** — Live rendering strategy comparison · Deployed  
 
 ---
 
 ## Find me
 
-- Portfolio → [github.com/PatriciaGea](https://github.com/PatriciaGea)
 - LinkedIn → [linkedin.com/in/patriciagea](https://linkedin.com/in/patriciagea)
-- Tattoo & illustration → [patriciageatattoo.com](https://patriciageatattoo.com)
-- Instagram → [@patriciagea](https://instagram.com/patriciagea)
+- Tattoo & illustration →  [@patriciagea](https://instagram.com/patriciagea)
+- patricia.gea@gmail.com
