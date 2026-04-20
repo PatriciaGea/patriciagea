@@ -24,7 +24,7 @@ what actually matters to end users.
 
 ## Tech stack
 
-`HTML5` `CSS3` `JavaScript` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Next.js` `Git`
+`HTML5` `CSS3` `JavaScript` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Next.js` `Axios` `Git` 
 
 ---
 
