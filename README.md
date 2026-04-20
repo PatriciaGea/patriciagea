@@ -1,33 +1,44 @@
+# Patricia Gea
 
-# Hey! 👋 I’m Patricia Gea  
+![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-open_to_internships-blue?style=flat-square)
+![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-black?style=flat-square)
 
-**Front End Developer | Graphic Designer | Tattoo Artist | Entrepreneur**  
+17 years building businesses — 3 tattoo studios, teams of 20, operations across Brazil and Sweden. Now applying that experience to code. I build for real users because I've been one, managed them, and designed experiences for them long before I wrote my first component.
 
-I’m studying at Hyper Island - Stockholm, Yrkeshögskolan, building interactive web apps and exploring full-stack development. I focus on clean, responsive, and accessible code, learning modern tools and workflows.
-
-## Skills & Focus Areas:
-
-Web: HTML5, CSS3, JavaScript (ES6+), React  
-Front-End: Interactive UI, SSR vs CSR, performance, accessibility  
-Back-End: Node.js, Express, APIs, MongoDB  
-Workflow: Git, GitHub, GitHub Pages, Agile & team collaboration
-
-
-##  What you’ll find here
-- Study projects and creative experiments  
-- Full-stack exercises  
-- Illustration and design portfolio  
-
-##  Goals
-- Improve full-stack skills and building real-world projects.
-- Combine my artistic experience as a ilustrator and tattoo artist with digital projects  
-- Collaborate on creative and innovative projects  
-
-##  Where to find me
-- Portfolio Frontend: [github.com/PatriciaGea](https://github.com/PatriciaGea)
-- Instagram  Ilustrations / Tattoos: [@patriciagea](https://instagram.com/patriciagea)  
-- Portifolio Ilustrations / Tattoos: [https://patriciageatattoo.com](https://patriciageatattoo.wixsite.com/patriciagea)
-- Linkedin [https://www.linkedin.com/patriciagea](https://www.linkedin.com/in/patriciageafrontend/)
 ---
-✨ Thank you for visiting my profile!
 
+## Background in numbers
+
+| 17 yrs | 3 studios | 20 people |
+|--------|-----------|-----------|
+| running businesses | across 2 countries | managed |
+
+---
+
+## Tech stack
+
+`HTML5` `CSS3` `JavaScript` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Next.js` `Git`
+
+---
+
+## Selected projects
+
+**[Booking & Portfolio App](link)** — Full-stack app with React, Next.js and TypeScript  
+**[User Registration App](link)** — CRUD with React + Node.js + MongoDB · Deployed  
+**[SSR vs CSR Explorer](link)** — Live rendering strategy comparison · Deployed  
+**[Responsive HTML/CSS Layout](link)** — Flexbox layout with custom SVGs
+
+---
+
+## What I bring beyond the code
+
+A product mindset shaped by real ownership — I've made UX decisions that affected revenue, managed people through operational chaos, and shipped things that had to work because livelihoods depended on them. That context changes how I approach every pull request.
+
+---
+
+## Find me
+
+- Portfolio → [github.com/PatriciaGea](https://github.com/PatriciaGea)
+- LinkedIn → [linkedin.com/in/patriciagea](https://linkedin.com/in/patriciagea)
+- Tattoo & illustration → [patriciageatattoo.com](https://patriciageatattoo.com)
+- Instagram → [@patriciagea](https://instagram.com/patriciagea)
