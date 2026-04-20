@@ -29,9 +29,9 @@ what actually matters to end users.
 
 ## Selected projects
 
-**[Booking & Portfolio App]([link](https://github.com/PatriciaGea/React-nextjs-typescript-booking-shop-portifolio.git))** — Full-stack app with React, Next.js and TypeScript  
-**[User Registration App]([link](https://patriciagea.github.io/React_Javascript_Api/))** — CRUD with React + Node.js + MongoDB · Deployed  
-**[SSR vs CSR Explorer]([link](https://patriciagea.github.io/ssr-csr-rendering/))** — Live rendering strategy comparison · Deployed  
+**[Booking & Portfolio App](https://github.com/PatriciaGea/React-nextjs-typescript-booking-shop-portifolio.git)** — Full-stack app with React, Next.js and TypeScript  
+**[User Registration App](https://patriciagea.github.io/React_Javascript_Api/)** — CRUD with React + Node.js + MongoDB · Deployed  
+**[SSR vs CSR Explorer](link(https://patriciagea.github.io/ssr-csr-rendering/)** — Live rendering strategy comparison · Deployed  
 
 ---
 
