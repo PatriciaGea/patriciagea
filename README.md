@@ -3,7 +3,7 @@
 ![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-open_to_internships-blue?style=flat-square)
 ![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-00b4b4?style=flat-square)
 
-Frontend developer with a background in business ownership.
+###Frontend developer with a background in business ownership.
 Before writing code, I spent 17 years running 3 tattoo studios
 scaling across Brazil and Sweden, hiring teams, managing operations,
 and making real worls product decisions.
@@ -31,7 +31,7 @@ what actually matters to end users.
 
 **[Booking & Portfolio App](https://github.com/PatriciaGea/React-nextjs-typescript-booking-shop-portifolio.git)** — Full-stack app with React, Next.js and TypeScript  
 **[User Registration App](https://patriciagea.github.io/React_Javascript_Api/)** — CRUD with React + Node.js + MongoDB · Deployed  
-**[SSR vs CSR Explorer](link(https://patriciagea.github.io/ssr-csr-rendering/)** — Live rendering strategy comparison · Deployed  
+**[SSR vs CSR Explorer](https://patriciagea.github.io/ssr-csr-rendering/)** — Live rendering strategy comparison · Deployed  
 
 ---
 
