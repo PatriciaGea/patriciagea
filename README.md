@@ -3,14 +3,16 @@
 ![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-open_to_internships-blue?style=flat-square)
 ![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-00b4b4?style=flat-square)
 
-### Frontend developer with a background in business ownership.
+Frontend developer with a background in business ownership.
+
 Before writing code, I spent 17 years running 3 tattoo studios
 scaling across Brazil and Sweden, hiring teams, managing operations,
 and making real worls product decisions.
+
 Now studying at Hyper Island in Stockholm, I bring that
 experience into how I think about UX, architecture, and
 what actually matters to end users.
----
+
 
 ## Background
 
