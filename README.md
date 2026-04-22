@@ -28,11 +28,11 @@ what actually matters to end users.
 
 ---
 
-## Selected projects
+## Selected projects deployed
 
-**[Booking & Portfolio App](https://github.com/PatriciaGea/React-nextjs-typescript-booking-shop-portifolio.git)** — Full-stack app with React, Next.js and TypeScript  
-**[User Registration App](https://patriciagea.github.io/React_Javascript_Api/)** — CRUD with React + Node.js + MongoDB · Deployed  
-**[SSR vs CSR Explorer](https://patriciagea.github.io/ssr-csr-rendering/)** — Live rendering strategy comparison · Deployed  
+**[Booking System with Login](https://patriciagea.github.io/BookingSystem/)** — Full-stack app with React, Javascript, JWT and Google OAuth, plus conflict-aware scheduling and validation. Built with React, Vite, Node.js, Express, and MongoDB, including automated email confirmations and cloud deployment.  
+**[User Registration App](https://patriciagea.github.io/React_Javascript_Api/)** — CRUD with React + Node.js + MongoDB 
+**[Portfolio]([https://patriciagea.github.io/ssr-csr-rendering](https://patriciageadev.vercel.app/)** — Portfolio projects 
 
 ---
 
