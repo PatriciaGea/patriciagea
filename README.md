@@ -28,12 +28,13 @@ what actually matters to end users.
 
 ---
 
-## Selected projects deployed
+## Selected projects - Deployed
 
 **[Booking System with Login](https://patriciagea.github.io/BookingSystem/)** — Full-stack app with React, Javascript, JWT and Google OAuth, plus conflict-aware scheduling and validation. Built with React, Vite, Node.js, Express, and MongoDB, including automated email confirmations and cloud deployment.  
 <br>
 **[User Registration App](https://patriciagea.github.io/React_Javascript_Api/)** — CRUD with React + Node.js + MongoDB 
 <br>
+
 **[Portfolio](https://patriciageadev.vercel.app/)** — Portfolio projects 
 
 ---
