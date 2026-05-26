@@ -1,17 +1,11 @@
 # Patricia Gea
 
-![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-open_to_internships-blue?style=flat-square)
-![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-00b4b4?style=flat-square)
+![Mobile / Frontend Developer](https://img.shields.io/badge/Frontend_Developer-open_to_internships-ffb6c1?style=flat-square)
+![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-cdb4ff?style=flat-square)
 
-Frontend developer with a background in business ownership.
+Mobile and Frontend Developer, with 17 years of previous experience as a business owner, where I built and managed 3 tattoo studios across Brazil and Sweden with a team of 20 people.
 
-Before writing code, I spent 17 years running 3 tattoo studios
-scaling across Brazil and Sweden, hiring teams, managing operations,
-and making real worls product decisions.
-
-Now studying at Hyper Island in Stockholm, I bring that
-experience into how I think about UX, architecture, and
-what actually matters to end users.
+I bring hands-on experience in user experience, operations, problem solving, scalability, visual communication, product thinking, now applied to mobile and web development.
 
 
 ## Background
@@ -24,8 +18,24 @@ what actually matters to end users.
 
 ## Tech stack
 
-`HTML5` `CSS3` `JavaScript` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Next.js` `Axios` `Git` 
+Mobile
+Kotlin · Android Studio · Jetpack Compose (Beginner)
 
+Frontend
+React · Next.js · TypeScript · JavaScript · Axios · HTML5 · CSS3
+
+Backend
+Node.js · Express 
+
+Tools & Workflow
+Git · GitHub · Agile · Vite · REST APIs · Vercel · Render
+
+Design
+Figma · Photoshop · Procreate
+Aframe · 3D · Motion ·Video Edition
+
+Concepts
+Responsive Design · Accessibility · UX Thinking · Design Systems
 ---
 
 ## Selected projects - Deployed
