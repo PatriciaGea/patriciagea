@@ -18,24 +18,32 @@ I bring hands-on experience in user experience, operations, problem solving, sca
 
 ## Tech stack
 
-Mobile
+**Mobile** :
+
 Kotlin · Android Studio · Jetpack Compose (Beginner)
 
-Frontend
+**Frontend** :
+
 React · Next.js · TypeScript · JavaScript · Axios · HTML5 · CSS3
 
-Backend
+**Backend** :
+
 Node.js · Express 
 
-Tools & Workflow
+**Tools & Workflow** :
+
 Git · GitHub · Agile · Vite · REST APIs · Vercel · Render
 
-Design
+**Design** :
+
 Figma · Photoshop · Procreate
 Aframe · 3D · Motion ·Video Edition
 
-Concepts
+**Concepts** :
+
 Responsive Design · Accessibility · UX Thinking · Design Systems
+
+
 ---
 
 ## Selected projects - Deployed
