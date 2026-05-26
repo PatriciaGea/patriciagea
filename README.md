@@ -20,28 +20,34 @@ I bring hands-on experience in user experience, operations, problem solving, sca
 
 **Mobile** :
 
-Kotlin · Android Studio · Jetpack Compose (Beginner)
++ Kotlin · Android Studio · Jetpack Compose (Beginner)
+
 
 **Frontend** :
 
-React · Next.js · TypeScript · JavaScript · Axios · HTML5 · CSS3
++ React · Next.js · TypeScript · JavaScript · Axios · HTML5 · CSS3
+
 
 **Backend** :
 
-Node.js · Express 
++ Node.js · Express 
+
 
 **Tools & Workflow** :
 
-Git · GitHub · Agile · Vite · REST APIs · Vercel · Render
++ Git · GitHub · Agile · Vite · REST APIs · Vercel · Render
+
 
 **Design** :
 
 Figma · Photoshop · Procreate
-Aframe · 3D · Motion ·Video Edition
++ Aframe · 3D · Motion ·Video Edition
+
 
 **Concepts** :
 
-Responsive Design · Accessibility · UX Thinking · Design Systems
++ Responsive Design · Accessibility · UX Thinking · Design Systems
+
 
 
 ---
