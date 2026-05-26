@@ -40,8 +40,7 @@ I bring hands-on experience in user experience, operations, problem solving, sca
 
 **Design** :
 
-Figma · Photoshop · Procreate
-+ Aframe · 3D · Motion ·Video Edition
++ Figma · Photoshop · Procreate  · Aframe · 3D · Motion · Video Edition
 
 
 **Concepts** :
