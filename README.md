@@ -48,22 +48,5 @@ I bring hands-on experience in user experience, operations, problem solving, sca
 + Responsive Design · Accessibility · UX Thinking · Design Systems
 
 
-
----
-
-## Selected projects - Deployed
-
-**[Booking System with Login](https://patriciagea.github.io/BookingSystem/)** — Full-stack app with React, Javascript, JWT and Google OAuth, plus conflict-aware scheduling and validation. Built with React, Vite, Node.js, Express, and MongoDB, including automated email confirmations and cloud deployment.  
-<br>
-**[User Registration App](https://patriciagea.github.io/React_Javascript_Api/)** — CRUD with React + Node.js + MongoDB 
-<br>
-
 **[Portfolio](https://patriciageadev.vercel.app/)** — Portfolio projects 
 
----
-
-## Find me
-
-- LinkedIn → [linkedin.com/in/patriciagea](https://linkedin.com/in/patriciagea)
-- Tattoo & illustration →  [@patriciagea](https://instagram.com/patriciagea)
-- patricia.gea@gmail.com
