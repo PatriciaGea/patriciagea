@@ -25,17 +25,17 @@ I bring hands-on experience in user experience, operations, problem solving, sca
 
 **Frontend** :
 
-+ React · Next.js · TypeScript · JavaScript · Axios · HTML5 · CSS3
++ React · Next.js · TypeScript · JavaScript · HTML5 · CSS3
 
 
 **Backend** :
 
-+ Node.js · Express 
++ MongoDB · Node.js · Express 
 
 
 **Tools & Workflow** :
 
-+ Git · GitHub · Agile · Vite · REST APIs · Vercel · Render
++ Git · GitHub · Agile · Vite · APIs · Vercel · Render
 
 
 **Design** :
