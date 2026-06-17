@@ -30,7 +30,7 @@ I bring hands-on experience in user experience, operations, problem solving, sca
 
 **Backend** :
 
-+ MongoDB · Node.js · Express 
++ NoSQL · MongoDB · Node.js · Express 
 
 
 **Tools & Workflow** :
