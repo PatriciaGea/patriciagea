@@ -1,4 +1,4 @@
-# Patricia Gea
+# Patricia Gea <img src="https://github.com/PatriciaGea/portifoliodev/blob/master/public/images/android_logo.webp"  width="40">
 
 ![Mobile / Frontend Developer](https://img.shields.io/badge/Frontend_Developer-open_to_internships-ffb6c1?style=flat-square)
 ![Hyper Island](https://img.shields.io/badge/Hyper_Island-Stockholm-cdb4ff?style=flat-square)
